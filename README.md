@@ -1,6 +1,5 @@
 # 🌾🌱 Crop Recommendation System 🌱🌾
 
-![Farmer](https://media.giphy.com/media/LvHMvJOWP4J76/giphy.gif)
 
 > 🤠 **A machine learning-powered crop recommendation system that helps farmers choose the most suitable crops for their soil and weather conditions.** 🌍💡
 
